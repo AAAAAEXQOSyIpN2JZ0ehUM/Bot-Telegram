@@ -23,7 +23,7 @@ function_verify () {
   exit 1
   } || {
   ### INTALAR VERCION DE SCRIPT
-  v1=$(curl -sSL "https://raw.githubusercontent.com/rudi9999/TeleBotGen/master/Vercion")
+  v1=$(curl -sSL "https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUM/PROYECTOS_DESCONTINUADOS/master/NEW-ULTIMATE-VPS-MX-8.0/_%24_Versiones/Bot_Telegram/TeleBotGen/TeleBotGen-master/Vercion")
   echo "$v1" > /etc/ADM-db/vercion
   }
 }
